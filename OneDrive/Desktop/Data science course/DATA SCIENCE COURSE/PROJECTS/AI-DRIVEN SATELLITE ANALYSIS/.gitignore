@@ -1,0 +1,24 @@
+# 🐍 Python bytecode & envs
+__pycache__/
+*.py[cod]
+.env
+
+# 📓 Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# 📁 Data folders (ignore raw, processed, external)
+data/raw/
+data/processed/
+data/external/
+
+# 🧠 Model weights
+models/
+*.pth
+*.pt
+
+# 📊 Reports & generated figures
+reports/figures/
+
+# 💻 OS metadata files
+.DS_Store
+Thumbs.db
